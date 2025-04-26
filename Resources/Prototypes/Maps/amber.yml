@@ -64,3 +64,8 @@
           #silicon (4)
           StationAi: [ 1, 1 ]
           Borg: [ 3, 3 ]
+          #cd/umbra
+          SeniorEngineer: [ 1, 1 ]
+          SeniorPhysician: [ 1, 1 ]
+          SeniorResearcher: [ 1, 1 ]
+          SeniorOfficer: [ 1, 1 ]
